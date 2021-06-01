@@ -53,4 +53,4 @@ sorl-thumbnail==12.4a1
 text-unidecode==1.0
 texttable==1.2.1
 Unidecode==0.4.21
-urllib3==1.22
+urllib3==1.26.5
